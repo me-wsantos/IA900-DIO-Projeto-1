@@ -9,6 +9,25 @@
 <hr>
 
 ## :computer: Descrição
+### 1. Definição do Problema
+* **Objetivo**: Prever o IPCA (Índice Nacional de Preço ao Consumidor Amplo)
+* **Variáveis**: Índice por mês e ano.
+
+### 2. Coleta de Dados
+* **Fontes de Dados**: Registro histórico do IPCA disponível no site do [IBGE](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=downloads)
+
+### 3. Pré-processamento dos Dados
+* **Limpeza de Dados**: Foram removidas linhas em branco e caracteres duplicados para garantir a qualidade, consistência e completude.
+
+### 4. Seleção de Modelo
+* **Escolha de Algoritmo**: Foi selecionado o modelo de regressão.
+
+### 5. Ferramentas:
+* O modelo foi implementado no Microsoft Azure Machine Learning.
+
+### 6. Documentação:
+* Abaixo o registro de cada etapa do processo de implementação. Foi incluído no projeto o arquivo .csv com os registros utilizados e um arquivo PDF com os prints das etapas de implementação do modelo.
+
 #### Basic settings:
   * **Job name**: IPCA série histórica <br>
   * **New experiment name**: Série histórica IPCA<br>
