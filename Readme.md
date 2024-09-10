@@ -54,7 +54,7 @@
    
   ### :technologist: Autor
   <a href="https://github.com/me-wsantos">
-   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/28636639?v=4" width="100px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/179779189?v=4" width="100px;" alt=""/>
    <br />
    <p><b>Wellington Santos</b></sub></a> <a href="https://github.com/me-wsantos" title="GitHub"></a></p>
   
